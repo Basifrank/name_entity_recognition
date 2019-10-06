@@ -22,4 +22,4 @@
 # Testing
 
 - open on colab
-- call the get_items2() function
+- call the get_items() function
